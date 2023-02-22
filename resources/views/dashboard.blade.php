@@ -4,8 +4,8 @@
     <h1 style="text-align: center">{{ $title }}</h1>
 
     <div class="d-flex mb-3" style="gap: 20px;">
-        <a href="http://vk.com" class="container bg-dark rounded d-flex text-center justify-content-center align-items-center" style="height: 200px;font-size: 40px;color:white;text-decoration: none">GIT</a>
-        <a href="/api/documentation" class="container bg-info rounded d-flex text-center justify-content-center align-items-center" style="font-size: 40px; color: black;text-decoration: none">API</a>
+        <a target="_blank" href="https://github.com/Shepych/Opt6-Example" class="container bg-dark rounded d-flex text-center justify-content-center align-items-center" style="height: 200px;font-size: 40px;color:white;text-decoration: none">GIT</a>
+        <a target="_blank" href="/api/documentation" class="container bg-info rounded d-flex text-center justify-content-center align-items-center" style="font-size: 40px; color: black;text-decoration: none">API</a>
     </div>
 
     <table id="orders">
